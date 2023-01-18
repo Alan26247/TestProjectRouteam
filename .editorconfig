@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1705: Сборка "Alan.Identity" с удостоверением "Alan.Identity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" использует "Microsoft.IdentityModel.Tokens, Version=6.25.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" с более высокой версией, чем у сборки "Microsoft.IdentityModel.Tokens" с удостоверением "Microsoft.IdentityModel.Tokens, Version=6.10.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35", на которую делается ссылка.
+dotnet_diagnostic.CS1705.severity = none
